@@ -37,7 +37,7 @@ minima:
 # linkedin_username: NONE
 # pinterest_username: NONE
 
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 theme: minima
