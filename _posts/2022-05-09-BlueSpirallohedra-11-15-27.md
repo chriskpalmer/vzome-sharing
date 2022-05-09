@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-Blue Spirallohedra by Chris K. Palmer Best viewed on desktop to use bookmarks.
+Blue Spirallohedra by Chris K. Palmer<br>Best viewed on desktop to use bookmarks.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
        src="https://chriskpalmer.github.io/vzome-sharing/2022/05/09/11-15-27-BlueSpirallohedra/BlueSpirallohedra.vZome" >
