@@ -1,18 +1,43 @@
+title: Geometry With vZome
+author: Chris K. Palmer
+description: > # this means to ignore newlines until "defaults:"
+  Geometric designs and stories,
+  all created with vZome (https://vzome.com).
 
 defaults:
   - scope:
-      path: ""
+      path: "" # an empty string here means all files in the project
+      type: "posts"
     values:
-      # This description will be used for any page/post that does not defined its own description in its front-matter.
-      description: A 3D design created in vZome.  Use your mouse or touch to interact.
-
-# Feel free to select a different theme.
-# The "minima" theme is a good default choice just because it
-#  generates a list of posts on the home page; many other themes do not.
-theme: minima
+      layout: "vzome"
+      author: "Chris K. Palmer"
+      # This description will be used for any page/post that does not define its own.
+      #description: A 3D design created in vZome.  Use your mouse or touch to interact.
 
 exclude:
   # Don't generate pages from vZome-created README files,
   #  to avoid generating extra pages in Jekyll, which clutter up the
   #  header for the minima theme, and probably others.
   - 20*/*/*/*/README.md
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  date_format: "%b %-d, %Y"
+
+#social links
+# twitter_username: vZome
+# facebook_username: vZome
+# youtube_username: vZome
+# github_username:  vZome
+# instagram_username: vzome_geometry
+# rss: rss
+# dribbble_username: vZome
+# flickr_username: vZome
+# linkedin_username: NONE
+# pinterest_username: NONE
+
+#header_pages:
+# - about.md
+
+theme: minima
