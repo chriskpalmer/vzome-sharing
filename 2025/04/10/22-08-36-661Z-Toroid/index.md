@@ -13,5 +13,7 @@ layout: design
         src="https://chriskpalmer.github.io/vzome-sharing/2025/04/10/22-08-36-661Z-Toroid/Toroid.png" >
   </vzome-viewer>
 
+  A toroid model from Adventures Among the Toroids: A Study of Quasi-Convex, Aplanar, Tunneled Orientable Polyhedra of Positive Genus Having Regular Faces With Disjoint Interiors by B.M Stewart
+
 
 [Source folder](<https://github.com/chriskpalmer/vzome-sharing/tree/main/2025/04/10/22-08-36-661Z-Toroid/>)
