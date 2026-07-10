@@ -1,5 +1,5 @@
 ---
-title: R30_Recursion_r30_2005_2006
+title: R30_Recursion_2005_2006
 share-description: R30 node and meta strut.
 image: https://chriskpalmer.github.io/vzome-sharing/2026/07/10/14-39-59-r30_recursion_r30_2005_2006/r30_recursion_r30_2005_2006.png
 layout: design
