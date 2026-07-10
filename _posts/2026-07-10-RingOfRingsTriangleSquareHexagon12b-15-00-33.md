@@ -1,6 +1,6 @@
 ---
 title: Ring of Rings Triangle Square Hexagon 12
-description: A ring of 12 Dodecagons in the 346 world.
+description: A ring of 12 Dodecagons in the 346 world. 9/18/2011
 image: https://chriskpalmer.github.io/vzome-sharing/2026/07/10/15-00-33-RingOfRingsTriangleSquareHexagon12b/RingOfRingsTriangleSquareHexagon12b.png
 published: true
 layout: vzome
