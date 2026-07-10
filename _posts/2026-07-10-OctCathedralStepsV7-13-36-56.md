@@ -1,6 +1,6 @@
 ---
 title: OctCathedralStepsV7
-description: A 3D design created in vZome. From a sketch done in 2011 updated in 2021. 
+description: A 3D design created in vZome. From a sketch done in 2011 uploaded in 2021. 
 image: https://chriskpalmer.github.io/vzome-sharing/2026/07/10/13-36-56-OctCathedralStepsV7/OctCathedralStepsV7.png
 published: true
 layout: vzome
