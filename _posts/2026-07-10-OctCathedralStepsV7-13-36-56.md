@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D design created in vZome. From a sketch done in 2011 updated in 2021. 
+A 3D design created in vZome. Archives[2011] - revised [2021] - uploaded 2026. 
 
 <figure style="width: 87%; margin: 5%">
   
