@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A ring of 12 Dodecagons in the 346 world.
+A ring of 12 Dodecagons in the 346 world.  Archives[9/18/2011] - uploaded in 2026.
 
 <figure style="width: 87%; margin: 5%">
   
