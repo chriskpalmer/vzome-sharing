@@ -1,6 +1,6 @@
 ---
 title: Decagon Ring Zome
-description: Archives[10/6/2013
+description: Archives[10/6/2013]
 image: https://chriskpalmer.github.io/vzome-sharing/2026/07/10/20-53-28-DecagonRingZome/DecagonRingZome.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-Archives[10/6/2013
+Archives[10/6/2013]
 
 <figure style="width: 87%; margin: 5%">
   
